@@ -1,0 +1,7 @@
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Class\Aula07\par ou impar\par ou impar\bin\Debug\par ou impar.exe.config
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Class\Aula07\par ou impar\par ou impar\bin\Debug\par ou impar.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Class\Aula07\par ou impar\par ou impar\bin\Debug\par ou impar.pdb
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Class\Aula07\par ou impar\par ou impar\obj\Debug\par ou impar.csproj.AssemblyReference.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Class\Aula07\par ou impar\par ou impar\obj\Debug\par ou impar.csproj.CoreCompileInputs.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Class\Aula07\par ou impar\par ou impar\obj\Debug\par ou impar.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Class\Aula07\par ou impar\par ou impar\obj\Debug\par ou impar.pdb
