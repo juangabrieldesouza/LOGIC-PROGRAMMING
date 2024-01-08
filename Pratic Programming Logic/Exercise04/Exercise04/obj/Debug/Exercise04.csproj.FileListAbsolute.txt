@@ -1,0 +1,7 @@
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\MyStudies\C#\01 Pratic Programming Logic\Exercise04\Exercise04\bin\Debug\Exercise04.exe.config
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\MyStudies\C#\01 Pratic Programming Logic\Exercise04\Exercise04\bin\Debug\Exercise04.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\MyStudies\C#\01 Pratic Programming Logic\Exercise04\Exercise04\bin\Debug\Exercise04.pdb
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\MyStudies\C#\01 Pratic Programming Logic\Exercise04\Exercise04\obj\Debug\Exercise04.csproj.AssemblyReference.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\MyStudies\C#\01 Pratic Programming Logic\Exercise04\Exercise04\obj\Debug\Exercise04.csproj.CoreCompileInputs.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\MyStudies\C#\01 Pratic Programming Logic\Exercise04\Exercise04\obj\Debug\Exercise04.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\MyStudies\C#\01 Pratic Programming Logic\Exercise04\Exercise04\obj\Debug\Exercise04.pdb
