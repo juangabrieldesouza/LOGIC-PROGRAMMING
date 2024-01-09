@@ -1,0 +1,7 @@
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Class\Aula07\atividades propostas\EstaAptoADirigir\EstaAptoADirigir\bin\Debug\EstaAptoADirigir.exe.config
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Class\Aula07\atividades propostas\EstaAptoADirigir\EstaAptoADirigir\bin\Debug\EstaAptoADirigir.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Class\Aula07\atividades propostas\EstaAptoADirigir\EstaAptoADirigir\bin\Debug\EstaAptoADirigir.pdb
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Class\Aula07\atividades propostas\EstaAptoADirigir\EstaAptoADirigir\obj\Debug\EstaAptoADirigir.csproj.AssemblyReference.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Class\Aula07\atividades propostas\EstaAptoADirigir\EstaAptoADirigir\obj\Debug\EstaAptoADirigir.csproj.CoreCompileInputs.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Class\Aula07\atividades propostas\EstaAptoADirigir\EstaAptoADirigir\obj\Debug\EstaAptoADirigir.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Class\Aula07\atividades propostas\EstaAptoADirigir\EstaAptoADirigir\obj\Debug\EstaAptoADirigir.pdb

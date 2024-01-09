@@ -1,0 +1,7 @@
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Class\Aula07\atividades propostas\AlunoAprovadoOuReprovado\AlunoAprovadoOuReprovado\bin\Debug\AlunoAprovadoOuReprovado.exe.config
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Class\Aula07\atividades propostas\AlunoAprovadoOuReprovado\AlunoAprovadoOuReprovado\bin\Debug\AlunoAprovadoOuReprovado.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Class\Aula07\atividades propostas\AlunoAprovadoOuReprovado\AlunoAprovadoOuReprovado\bin\Debug\AlunoAprovadoOuReprovado.pdb
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Class\Aula07\atividades propostas\AlunoAprovadoOuReprovado\AlunoAprovadoOuReprovado\obj\Debug\AlunoAprovadoOuReprovado.csproj.AssemblyReference.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Class\Aula07\atividades propostas\AlunoAprovadoOuReprovado\AlunoAprovadoOuReprovado\obj\Debug\AlunoAprovadoOuReprovado.csproj.CoreCompileInputs.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Class\Aula07\atividades propostas\AlunoAprovadoOuReprovado\AlunoAprovadoOuReprovado\obj\Debug\AlunoAprovadoOuReprovado.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Class\Aula07\atividades propostas\AlunoAprovadoOuReprovado\AlunoAprovadoOuReprovado\obj\Debug\AlunoAprovadoOuReprovado.pdb
