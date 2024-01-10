@@ -1,0 +1,7 @@
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\atividades propostas\Aula08\PartidaDeFutebol\PartidaDeFutebol\bin\Debug\PartidaDeFutebol.exe.config
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\atividades propostas\Aula08\PartidaDeFutebol\PartidaDeFutebol\bin\Debug\PartidaDeFutebol.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\atividades propostas\Aula08\PartidaDeFutebol\PartidaDeFutebol\bin\Debug\PartidaDeFutebol.pdb
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\atividades propostas\Aula08\PartidaDeFutebol\PartidaDeFutebol\obj\Debug\PartidaDeFutebol.csproj.AssemblyReference.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\atividades propostas\Aula08\PartidaDeFutebol\PartidaDeFutebol\obj\Debug\PartidaDeFutebol.csproj.CoreCompileInputs.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\atividades propostas\Aula08\PartidaDeFutebol\PartidaDeFutebol\obj\Debug\PartidaDeFutebol.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\atividades propostas\Aula08\PartidaDeFutebol\PartidaDeFutebol\obj\Debug\PartidaDeFutebol.pdb

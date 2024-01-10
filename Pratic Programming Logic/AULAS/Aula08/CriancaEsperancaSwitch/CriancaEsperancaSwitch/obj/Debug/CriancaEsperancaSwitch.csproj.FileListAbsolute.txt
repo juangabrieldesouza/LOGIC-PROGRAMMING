@@ -1,0 +1,7 @@
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula08\CriancaEsperancaSwitch\CriancaEsperancaSwitch\bin\Debug\CriancaEsperancaSwitch.exe.config
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula08\CriancaEsperancaSwitch\CriancaEsperancaSwitch\bin\Debug\CriancaEsperancaSwitch.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula08\CriancaEsperancaSwitch\CriancaEsperancaSwitch\bin\Debug\CriancaEsperancaSwitch.pdb
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula08\CriancaEsperancaSwitch\CriancaEsperancaSwitch\obj\Debug\CriancaEsperancaSwitch.csproj.AssemblyReference.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula08\CriancaEsperancaSwitch\CriancaEsperancaSwitch\obj\Debug\CriancaEsperancaSwitch.csproj.CoreCompileInputs.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula08\CriancaEsperancaSwitch\CriancaEsperancaSwitch\obj\Debug\CriancaEsperancaSwitch.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula08\CriancaEsperancaSwitch\CriancaEsperancaSwitch\obj\Debug\CriancaEsperancaSwitch.pdb

@@ -1,0 +1,7 @@
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula08\AlunoAprovadoCondicionais\AlunoAprovadoCondicionais\bin\Debug\AlunoAprovadoCondicionais.exe.config
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula08\AlunoAprovadoCondicionais\AlunoAprovadoCondicionais\bin\Debug\AlunoAprovadoCondicionais.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula08\AlunoAprovadoCondicionais\AlunoAprovadoCondicionais\bin\Debug\AlunoAprovadoCondicionais.pdb
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula08\AlunoAprovadoCondicionais\AlunoAprovadoCondicionais\obj\Debug\AlunoAprovadoCondicionais.csproj.AssemblyReference.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula08\AlunoAprovadoCondicionais\AlunoAprovadoCondicionais\obj\Debug\AlunoAprovadoCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula08\AlunoAprovadoCondicionais\AlunoAprovadoCondicionais\obj\Debug\AlunoAprovadoCondicionais.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula08\AlunoAprovadoCondicionais\AlunoAprovadoCondicionais\obj\Debug\AlunoAprovadoCondicionais.pdb

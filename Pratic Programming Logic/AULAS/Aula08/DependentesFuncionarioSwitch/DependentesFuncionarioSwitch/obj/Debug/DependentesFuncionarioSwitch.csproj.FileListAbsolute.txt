@@ -1,0 +1,7 @@
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula08\DependentesFuncionarioSwitch\DependentesFuncionarioSwitch\bin\Debug\DependentesFuncionarioSwitch.exe.config
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula08\DependentesFuncionarioSwitch\DependentesFuncionarioSwitch\bin\Debug\DependentesFuncionarioSwitch.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula08\DependentesFuncionarioSwitch\DependentesFuncionarioSwitch\bin\Debug\DependentesFuncionarioSwitch.pdb
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula08\DependentesFuncionarioSwitch\DependentesFuncionarioSwitch\obj\Debug\DependentesFuncionarioSwitch.csproj.AssemblyReference.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula08\DependentesFuncionarioSwitch\DependentesFuncionarioSwitch\obj\Debug\DependentesFuncionarioSwitch.csproj.CoreCompileInputs.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula08\DependentesFuncionarioSwitch\DependentesFuncionarioSwitch\obj\Debug\DependentesFuncionarioSwitch.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula08\DependentesFuncionarioSwitch\DependentesFuncionarioSwitch\obj\Debug\DependentesFuncionarioSwitch.pdb

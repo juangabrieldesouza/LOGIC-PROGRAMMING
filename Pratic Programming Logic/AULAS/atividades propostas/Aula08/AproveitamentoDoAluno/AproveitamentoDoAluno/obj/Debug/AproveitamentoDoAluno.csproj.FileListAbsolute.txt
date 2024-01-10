@@ -1,0 +1,7 @@
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\atividades propostas\Aula08\AproveitamentoDoAluno\AproveitamentoDoAluno\bin\Debug\AproveitamentoDoAluno.exe.config
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\atividades propostas\Aula08\AproveitamentoDoAluno\AproveitamentoDoAluno\bin\Debug\AproveitamentoDoAluno.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\atividades propostas\Aula08\AproveitamentoDoAluno\AproveitamentoDoAluno\bin\Debug\AproveitamentoDoAluno.pdb
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\atividades propostas\Aula08\AproveitamentoDoAluno\AproveitamentoDoAluno\obj\Debug\AproveitamentoDoAluno.csproj.AssemblyReference.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\atividades propostas\Aula08\AproveitamentoDoAluno\AproveitamentoDoAluno\obj\Debug\AproveitamentoDoAluno.csproj.CoreCompileInputs.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\atividades propostas\Aula08\AproveitamentoDoAluno\AproveitamentoDoAluno\obj\Debug\AproveitamentoDoAluno.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\atividades propostas\Aula08\AproveitamentoDoAluno\AproveitamentoDoAluno\obj\Debug\AproveitamentoDoAluno.pdb
