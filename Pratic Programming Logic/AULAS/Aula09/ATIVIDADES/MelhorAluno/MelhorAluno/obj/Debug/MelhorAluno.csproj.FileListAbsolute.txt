@@ -1,0 +1,7 @@
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula09\ATIVIDADES\MelhorAluno\MelhorAluno\bin\Debug\MelhorAluno.exe.config
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula09\ATIVIDADES\MelhorAluno\MelhorAluno\bin\Debug\MelhorAluno.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula09\ATIVIDADES\MelhorAluno\MelhorAluno\bin\Debug\MelhorAluno.pdb
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula09\ATIVIDADES\MelhorAluno\MelhorAluno\obj\Debug\MelhorAluno.csproj.AssemblyReference.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula09\ATIVIDADES\MelhorAluno\MelhorAluno\obj\Debug\MelhorAluno.csproj.CoreCompileInputs.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula09\ATIVIDADES\MelhorAluno\MelhorAluno\obj\Debug\MelhorAluno.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula09\ATIVIDADES\MelhorAluno\MelhorAluno\obj\Debug\MelhorAluno.pdb

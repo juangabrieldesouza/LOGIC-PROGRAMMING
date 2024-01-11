@@ -1,0 +1,7 @@
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula09\ATIVIDADES\ContagemInteligente\ContagemInteligente\bin\Debug\ContagemInteligente.exe.config
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula09\ATIVIDADES\ContagemInteligente\ContagemInteligente\bin\Debug\ContagemInteligente.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula09\ATIVIDADES\ContagemInteligente\ContagemInteligente\bin\Debug\ContagemInteligente.pdb
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula09\ATIVIDADES\ContagemInteligente\ContagemInteligente\obj\Debug\ContagemInteligente.csproj.AssemblyReference.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula09\ATIVIDADES\ContagemInteligente\ContagemInteligente\obj\Debug\ContagemInteligente.csproj.CoreCompileInputs.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula09\ATIVIDADES\ContagemInteligente\ContagemInteligente\obj\Debug\ContagemInteligente.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula09\ATIVIDADES\ContagemInteligente\ContagemInteligente\obj\Debug\ContagemInteligente.pdb
