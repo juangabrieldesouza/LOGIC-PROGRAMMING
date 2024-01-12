@@ -1,0 +1,7 @@
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\FatorialDeUmNumero\FatorialDeUmNumero\bin\Debug\FatorialDeUmNumero.exe.config
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\FatorialDeUmNumero\FatorialDeUmNumero\bin\Debug\FatorialDeUmNumero.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\FatorialDeUmNumero\FatorialDeUmNumero\bin\Debug\FatorialDeUmNumero.pdb
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\FatorialDeUmNumero\FatorialDeUmNumero\obj\Debug\FatorialDeUmNumero.csproj.AssemblyReference.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\FatorialDeUmNumero\FatorialDeUmNumero\obj\Debug\FatorialDeUmNumero.csproj.CoreCompileInputs.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\FatorialDeUmNumero\FatorialDeUmNumero\obj\Debug\FatorialDeUmNumero.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\FatorialDeUmNumero\FatorialDeUmNumero\obj\Debug\FatorialDeUmNumero.pdb

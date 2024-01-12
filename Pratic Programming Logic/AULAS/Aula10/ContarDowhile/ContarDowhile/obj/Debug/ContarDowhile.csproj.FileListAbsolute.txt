@@ -1,0 +1,7 @@
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\ContarDowhile\ContarDowhile\bin\Debug\ContarDowhile.exe.config
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\ContarDowhile\ContarDowhile\bin\Debug\ContarDowhile.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\ContarDowhile\ContarDowhile\bin\Debug\ContarDowhile.pdb
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\ContarDowhile\ContarDowhile\obj\Debug\ContarDowhile.csproj.AssemblyReference.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\ContarDowhile\ContarDowhile\obj\Debug\ContarDowhile.csproj.CoreCompileInputs.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\ContarDowhile\ContarDowhile\obj\Debug\ContarDowhile.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\ContarDowhile\ContarDowhile\obj\Debug\ContarDowhile.pdb

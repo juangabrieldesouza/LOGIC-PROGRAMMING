@@ -1,0 +1,7 @@
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\ConteNegativos\ConteNegativos\bin\Debug\ConteNegativos.exe.config
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\ConteNegativos\ConteNegativos\bin\Debug\ConteNegativos.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\ConteNegativos\ConteNegativos\bin\Debug\ConteNegativos.pdb
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\ConteNegativos\ConteNegativos\obj\Debug\ConteNegativos.csproj.AssemblyReference.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\ConteNegativos\ConteNegativos\obj\Debug\ConteNegativos.csproj.CoreCompileInputs.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\ConteNegativos\ConteNegativos\obj\Debug\ConteNegativos.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\ConteNegativos\ConteNegativos\obj\Debug\ConteNegativos.pdb
