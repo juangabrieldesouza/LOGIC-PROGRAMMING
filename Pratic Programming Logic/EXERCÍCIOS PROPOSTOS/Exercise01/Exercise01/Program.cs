@@ -10,13 +10,10 @@ namespace Exercise01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("-----------------------------------");
-            Console.WriteLine("PROGRAMA PARA TE RECEBER");
-            Console.WriteLine("-----------------------------------");
-            Console.WriteLine("Qual é o seu nome?");
-            string nome = Console.ReadLine();
 
-            Console.WriteLine($"Seja bem vindo {nome}, é um prazer te receber!");
+            Console.WriteLine("Hello World, Jesus love you!");
+
+
         }
     }
 }

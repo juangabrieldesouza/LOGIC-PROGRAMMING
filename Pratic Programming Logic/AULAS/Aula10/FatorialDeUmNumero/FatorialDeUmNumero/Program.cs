@@ -10,29 +10,33 @@ namespace FatorialDeUmNumero
     {
         static void Main(string[] args)
         {
-            int numeroFat = 0;
+            int numeroFat = 1;
             int cont = 1;
             int numero= 1;
-            int cont2 = 1;
+            int num = 1;
+            
+             Console.Write("Qual número você deseja fatorar? ");
+             numero = int.Parse(Console.ReadLine());
+             
 
-            Console.Write("Qual número você deseja fatorar? ");
-            numeroFat = int.Parse(Console.ReadLine());
-            Console.Write(numeroFat + ":  ");
-            do 
-            {
-                Console.Write("  ... "+numeroFat+" x "+cont2+" = "+numeroFat+" ");
+             cont = numero;
+             do 
+             {
 
-                if (numeroFat > cont) numero = numeroFat;
                 
-                numeroFat = numeroFat * cont2;
+                numeroFat = numeroFat * cont;
+                
+                cont--;
 
-                cont = numeroFat;
-                cont2 = cont;
+                                
+               
+                
 
-                cont++;
+            } while (cont > 1);
+
+            Console.WriteLine(" \nO fatorial de " + numero+ " é "+numeroFat );
 
 
-            } while (cont >= numero);
 
         }
     }
