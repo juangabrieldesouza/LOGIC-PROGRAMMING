@@ -1,0 +1,7 @@
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\ATIVIDADES\EscolhendoPessoas\EscolhendoPessoas\bin\Debug\EscolhendoPessoas.exe.config
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\ATIVIDADES\EscolhendoPessoas\EscolhendoPessoas\bin\Debug\EscolhendoPessoas.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\ATIVIDADES\EscolhendoPessoas\EscolhendoPessoas\bin\Debug\EscolhendoPessoas.pdb
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\ATIVIDADES\EscolhendoPessoas\EscolhendoPessoas\obj\Debug\EscolhendoPessoas.csproj.AssemblyReference.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\ATIVIDADES\EscolhendoPessoas\EscolhendoPessoas\obj\Debug\EscolhendoPessoas.csproj.CoreCompileInputs.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\ATIVIDADES\EscolhendoPessoas\EscolhendoPessoas\obj\Debug\EscolhendoPessoas.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula10\ATIVIDADES\EscolhendoPessoas\EscolhendoPessoas\obj\Debug\EscolhendoPessoas.pdb
