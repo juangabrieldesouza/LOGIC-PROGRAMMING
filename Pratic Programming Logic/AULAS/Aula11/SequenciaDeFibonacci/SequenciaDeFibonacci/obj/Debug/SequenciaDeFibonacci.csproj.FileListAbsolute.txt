@@ -1,0 +1,7 @@
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula11\SequenciaDeFibonacci\SequenciaDeFibonacci\bin\Debug\SequenciaDeFibonacci.exe.config
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula11\SequenciaDeFibonacci\SequenciaDeFibonacci\bin\Debug\SequenciaDeFibonacci.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula11\SequenciaDeFibonacci\SequenciaDeFibonacci\bin\Debug\SequenciaDeFibonacci.pdb
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula11\SequenciaDeFibonacci\SequenciaDeFibonacci\obj\Debug\SequenciaDeFibonacci.csproj.AssemblyReference.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula11\SequenciaDeFibonacci\SequenciaDeFibonacci\obj\Debug\SequenciaDeFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula11\SequenciaDeFibonacci\SequenciaDeFibonacci\obj\Debug\SequenciaDeFibonacci.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula11\SequenciaDeFibonacci\SequenciaDeFibonacci\obj\Debug\SequenciaDeFibonacci.pdb

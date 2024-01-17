@@ -15,19 +15,19 @@ namespace Exercise23
             Console.Write("Digite o valor da compra: R$");
             double compra = double.Parse(Console.ReadLine());
             Console.WriteLine("---------------");
-            Console.WriteLine("Valor da compra: R$"+compra);
-            double valorTotal = compra - (compra * (13 / 100));
-            double desconto =  (13 / 100) * compra;
+            Console.WriteLine("Valor da compra: R$"+compra.ToString("F2"));
+            double valorTotal = compra - (compra * (13.0 / 100.0));
+            double desconto =  (13.0 / 100.0) * compra;
 
             if (sexo == "FF")
             {
-                Console.WriteLine("DESCONTO: R$"+desconto);
-                Console.WriteLine("VALOR TOTAL DA COMPRA: R$" + valorTotal);
+                Console.WriteLine("DESCONTO: R$"+desconto.ToString("F2"));
+                Console.WriteLine("VALOR TOTAL DA COMPRA: R$" + valorTotal.ToString("F2"));
 
             } else if (sexo == "MM")
             {
-                Console.WriteLine("DESCONTO: R$" + compra * (5 / 100));
-                Console.WriteLine("VALOR TOTAL DA COMPRA: R$" + valorTotal);
+                Console.WriteLine("DESCONTO: R$" + compra * (5.0 / 100.0));
+                Console.WriteLine("VALOR TOTAL DA COMPRA: R$" + valorTotal.ToString("F2"));
             }
                 
 
