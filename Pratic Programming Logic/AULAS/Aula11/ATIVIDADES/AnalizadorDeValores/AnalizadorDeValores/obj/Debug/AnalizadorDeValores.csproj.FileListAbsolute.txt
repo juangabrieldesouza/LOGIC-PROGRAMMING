@@ -1,0 +1,7 @@
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula11\ATIVIDADES\AnalizadorDeValores\AnalizadorDeValores\bin\Debug\AnalizadorDeValores.exe.config
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula11\ATIVIDADES\AnalizadorDeValores\AnalizadorDeValores\bin\Debug\AnalizadorDeValores.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula11\ATIVIDADES\AnalizadorDeValores\AnalizadorDeValores\bin\Debug\AnalizadorDeValores.pdb
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula11\ATIVIDADES\AnalizadorDeValores\AnalizadorDeValores\obj\Debug\AnalizadorDeValores.csproj.AssemblyReference.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula11\ATIVIDADES\AnalizadorDeValores\AnalizadorDeValores\obj\Debug\AnalizadorDeValores.csproj.CoreCompileInputs.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula11\ATIVIDADES\AnalizadorDeValores\AnalizadorDeValores\obj\Debug\AnalizadorDeValores.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula11\ATIVIDADES\AnalizadorDeValores\AnalizadorDeValores\obj\Debug\AnalizadorDeValores.pdb
