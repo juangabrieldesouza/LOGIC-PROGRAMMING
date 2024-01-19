@@ -1,0 +1,7 @@
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula12\MetodosParametros\MetodosParametros\bin\Debug\MetodosParametros.exe.config
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula12\MetodosParametros\MetodosParametros\bin\Debug\MetodosParametros.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula12\MetodosParametros\MetodosParametros\bin\Debug\MetodosParametros.pdb
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula12\MetodosParametros\MetodosParametros\obj\Debug\MetodosParametros.csproj.AssemblyReference.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula12\MetodosParametros\MetodosParametros\obj\Debug\MetodosParametros.csproj.CoreCompileInputs.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula12\MetodosParametros\MetodosParametros\obj\Debug\MetodosParametros.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula12\MetodosParametros\MetodosParametros\obj\Debug\MetodosParametros.pdb

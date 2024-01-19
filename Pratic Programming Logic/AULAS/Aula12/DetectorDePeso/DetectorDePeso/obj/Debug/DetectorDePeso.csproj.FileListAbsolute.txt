@@ -1,0 +1,7 @@
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula12\DetectorDePeso\DetectorDePeso\bin\Debug\DetectorDePeso.exe.config
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula12\DetectorDePeso\DetectorDePeso\bin\Debug\DetectorDePeso.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula12\DetectorDePeso\DetectorDePeso\bin\Debug\DetectorDePeso.pdb
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula12\DetectorDePeso\DetectorDePeso\obj\Debug\DetectorDePeso.csproj.AssemblyReference.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula12\DetectorDePeso\DetectorDePeso\obj\Debug\DetectorDePeso.csproj.CoreCompileInputs.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula12\DetectorDePeso\DetectorDePeso\obj\Debug\DetectorDePeso.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\AULAS\Aula12\DetectorDePeso\DetectorDePeso\obj\Debug\DetectorDePeso.pdb

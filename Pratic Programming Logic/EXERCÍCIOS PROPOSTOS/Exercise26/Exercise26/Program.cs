@@ -15,7 +15,7 @@ namespace Exercise26
             int valor1 = int.Parse(Console.ReadLine());
 
             Console.Write("Insira o segundo valor: ");
-
+            int valor2 = int.Parse(Console.ReadLine());
 
 
             Console.WriteLine("O primeiro valor é maior!");
