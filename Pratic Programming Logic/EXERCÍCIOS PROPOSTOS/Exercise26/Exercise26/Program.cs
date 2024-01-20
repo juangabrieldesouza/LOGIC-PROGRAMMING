@@ -17,12 +17,22 @@ namespace Exercise26
             Console.Write("Insira o segundo valor: ");
             int valor2 = int.Parse(Console.ReadLine());
 
+            if (valor1 > valor2)
+            {
+                Console.WriteLine("O primeiro valor é maior!");
+            } else if (valor1 < valor2)
+            {
+                Console.WriteLine("O segundo valor é maior!");
+            } else if ( valor1 == valor2)
+            {
+                Console.WriteLine("Não tem valor maior os dois são iguais!");
+            }
 
-            Console.WriteLine("O primeiro valor é maior!");
+            
 
-            Console.WriteLine("O segundo valor é maior!");
+            
 
-            Console.WriteLine("Não tem valor maior os dois são iguais!");
+            
         }
     }
 }
