@@ -1,0 +1,7 @@
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\EXERCÍCIOS PROPOSTOS\Exercise32\Exercise32\bin\Debug\Exercise32.exe.config
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\EXERCÍCIOS PROPOSTOS\Exercise32\Exercise32\bin\Debug\Exercise32.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\EXERCÍCIOS PROPOSTOS\Exercise32\Exercise32\bin\Debug\Exercise32.pdb
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\EXERCÍCIOS PROPOSTOS\Exercise32\Exercise32\obj\Debug\Exercise32.csproj.AssemblyReference.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\EXERCÍCIOS PROPOSTOS\Exercise32\Exercise32\obj\Debug\Exercise32.csproj.CoreCompileInputs.cache
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\EXERCÍCIOS PROPOSTOS\Exercise32\Exercise32\obj\Debug\Exercise32.exe
+C:\Users\juagb\Downloads\JUAN PESSOAL\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\EXERCÍCIOS PROPOSTOS\Exercise32\Exercise32\obj\Debug\Exercise32.pdb
