@@ -10,7 +10,19 @@ namespace Exercise44
     {
         static void Main(string[] args)
         {
-            Console.WriteLine();
+            Console.Write("Digite o primeiro valor: ");
+            int valor = int.Parse(Console.ReadLine());
+            Console.Write("Digite o ultimo valor: ");
+            int ultValor = int.Parse(Console.ReadLine());
+            Console.Write("Digite o incremento valor: ");
+            int incremento = int.Parse(Console.ReadLine());
+
+            while (valor <= ultValor)
+            {
+                Console.Write(" "+valor);
+                valor += incremento;
+            }
+            Console.WriteLine(" Acabou!");
         }
     }
 }
