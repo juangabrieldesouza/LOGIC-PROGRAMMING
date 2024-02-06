@@ -15,6 +15,9 @@ namespace Exercise50
             Random random = new Random();
             while (contador <= 20)
             {
+
+
+
                 random.Next(0,20);
             }
 
