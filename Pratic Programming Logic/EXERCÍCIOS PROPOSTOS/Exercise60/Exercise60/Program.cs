@@ -40,6 +40,7 @@ namespace Exercise60
                     if (idade < 18 && sexo == "F") mulheres++;
 
                     if (idade > idade2) idade2 = idade; pessoaMaior = nome;
+
                 }
 
                 cont++;
