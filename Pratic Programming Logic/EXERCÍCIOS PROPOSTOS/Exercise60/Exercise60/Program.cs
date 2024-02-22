@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml;
 
 namespace Exercise60
 {
@@ -11,8 +12,8 @@ namespace Exercise60
         static void Main(string[] args)
         {
 
-            int cont = 1, idade = 0, homens = 0, mulheres = 0, idadeTotal= 0, idade2 = 0;
-            string nome = null, sexo = null, resposta = "S", pessoaMaior = "";
+            int cont = 1, idade = 0, homens = 0, mulheres = 0, idadeTotal= 0, idade2 = 0, idadeMenor = int.MaxValue;
+            string nome = null, sexo = null, resposta = "S", pessoaMaior = "", nomeMenor = "";
 
             while(resposta == "S")     
             {
@@ -23,8 +24,10 @@ namespace Exercise60
 
 
                 if (resposta == "S") 
-                { 
-                    Console.WriteLine("-------------------PESSOA "+cont+"-----------------");
+                {
+                    Console.WriteLine("==========================================");
+                    Console.WriteLine("              PESSOA "+cont+"             ");
+                    Console.WriteLine("==========================================");
                     Console.Write("Digite o nome da "+cont+"a. pessoa: ");
                     nome = Console.ReadLine();
                     Console.Write("Digite a idade: ");
@@ -39,9 +42,24 @@ namespace Exercise60
 
                     if (idade < 18 && sexo == "F") mulheres++;
 
+                    
 
-                    if (idade > idade2) idade2 = idade; pessoaMaior = nome;
+                    if (idade2 < idade)
+                    {
+                        
+                        pessoaMaior = nome;
+                    }
 
+                    idade2 = idade;
+
+                    if (idade < idadeMenor)
+                    { 
+                        idadeMenor = idade; 
+                        if (sexo == "F") 
+                        {
+                            nomeMenor = nome;
+                        }
+                    }
                 }
 
                 cont++;
@@ -50,8 +68,11 @@ namespace Exercise60
 
             }
 
+            Console.WriteLine("--------------------------------------");
 
-
+            Console.WriteLine("A pessoa mais velha registrada é "+pessoaMaior);
+            Console.WriteLine("A mulher mais jovem é a "+nomeMenor);
+            Console.WriteLine("Média de idade do grupo é de "+(idadeTotal/cont));
             Console.WriteLine("Total de homens com mais de 30 anos é "+homens);
             Console.WriteLine("A quantidade de mulheres com menos de 18 anos é "+mulheres);
 
