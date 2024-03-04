@@ -1,0 +1,7 @@
+C:\Users\juagb\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\EXERCÍCIOS PROPOSTOS\Exercise61\Exercise61\bin\Debug\Exercise61.exe.config
+C:\Users\juagb\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\EXERCÍCIOS PROPOSTOS\Exercise61\Exercise61\bin\Debug\Exercise61.exe
+C:\Users\juagb\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\EXERCÍCIOS PROPOSTOS\Exercise61\Exercise61\bin\Debug\Exercise61.pdb
+C:\Users\juagb\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\EXERCÍCIOS PROPOSTOS\Exercise61\Exercise61\obj\Debug\Exercise61.csproj.AssemblyReference.cache
+C:\Users\juagb\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\EXERCÍCIOS PROPOSTOS\Exercise61\Exercise61\obj\Debug\Exercise61.csproj.CoreCompileInputs.cache
+C:\Users\juagb\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\EXERCÍCIOS PROPOSTOS\Exercise61\Exercise61\obj\Debug\Exercise61.exe
+C:\Users\juagb\Documentos\DEV\LOGIC-PROGRAMMING\Pratic Programming Logic\EXERCÍCIOS PROPOSTOS\Exercise61\Exercise61\obj\Debug\Exercise61.pdb

@@ -11,7 +11,17 @@ namespace Exercise61
         static void Main(string[] args)
         {
 
+            int c = 0;
 
+            do
+            {
+                Console.Write(c+"  ");
+
+
+                c += 3;
+            } while (c <= 30);
+
+            Console.WriteLine("  Acabou! ");
 
 
 
